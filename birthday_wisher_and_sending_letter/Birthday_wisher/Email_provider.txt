@@ -1,0 +1,5 @@
+SMTP-Simple Mail Transfer Protocol
+for email:smtp.gmail.com
+for hotmail:smtp.live.com
+for yahoo:smtp.mail.yahoo.com
+      
